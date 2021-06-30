@@ -1,4 +1,4 @@
-FROM python:3.9.5-alpine
+FROM python:3.10.0b3-alpine
 
 ARG ANSIBLE_VERSION=2.7.7
 ARG MOLECULE_VERSION=2.19.0
